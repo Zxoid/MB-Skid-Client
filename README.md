@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://imgur.com/a/qmByDVN" alt="MB Skid CLient Logo" width="20%"/>
+<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/qmByDVN" data-context="false" ><a href="//imgur.com/a/qmByDVN"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>" alt="MB Skid CLient Logo" width="20%"/>
 </p>
 
 <h1 align="center">Meteor Client</h1>
