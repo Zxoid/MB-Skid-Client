@@ -5,9 +5,9 @@
   "version": "${version}",
   "description": "Based utility mod.",
   "authors": [
-    "MineGame159",
-    "squidoodly",
-    "seasnail"
+    "wringly",
+    "Zxoid",
+    "Pool800"
   ],
   "contact": {
     "homepage": "https://meteorclient.com",
@@ -33,7 +33,7 @@
   "accessWidener": "meteor-client.accesswidener",
   "custom": {
     "meteor-client:devbuild": "${devbuild}",
-    "meteor-client:color": "145,61,226",
+    "meteor-client:color": "235,58,52",
     "modmenu": {
       "links": {
         "modmenu.discord": "https://meteorclient.com/discord"
