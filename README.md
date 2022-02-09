@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/97409383/153126065-a3cd8db8-5a07-4c52-8964-bd40802e9700.png"charset=" width"25" height"25"
+<img src="https://user-images.githubusercontent.com/97409383/153126065-a3cd8db8-5a07-4c52-8964-bd40802e9700.png"charset=" width"5" height"5"
 </p>
 
 <h1 align="center">MB Skid Client</h1>
