@@ -34,7 +34,7 @@ public class ChatUtils {
         PREFIX = new LiteralText("")
             .setStyle(Style.EMPTY.withFormatting(Formatting.GRAY))
             .append("[")
-            .append(new LiteralText("MBSkidClient").setStyle(Style.EMPTY.withColor(new TextColor(AddonManager.METEOR.color.getPacked()))))
+            .append(new LiteralText("MB Skid Client").setStyle(Style.EMPTY.withColor(new TextColor(AddonManager.METEOR.color.getPacked()))))
             .append("] ");
     }
 
