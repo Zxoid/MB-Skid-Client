@@ -33,13 +33,14 @@ public class SplashTextResourceSupplierMixin {
 
     private static List<String> getMeteorSplashes() {
         return Arrays.asList(
-                "Meteor on Crack!",
-                "Star Meteor Client on GitHub!",
-                "Based utility mod.",
-                "§6MineGame159 §fbased god",
-                "§4meteorclient.com",
-                "§4Meteor on Crack!",
-                "§6Meteor on Crack!"
+                "Fuck Nexus",
+                "MB on top!",
+                "I love pool",
+                "§6Zxoid §fbased god",
+                "§4discord.gg/6ZKPCxbh7N",
+                "§4Meteor but better",
+                "§4Made by wringly",
+                "§6MB Skid Client"
         );
     }
 
