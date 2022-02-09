@@ -1,11 +1,11 @@
 
 <p align="center">
-<img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/qmByDVN" data-context="false" ><a href="//imgur.com/a/qmByDVN"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>" alt="MB Skid CLient Logo" width="20%"/>
+<img src="mblogo.png" charset="utf-8"></script>" alt="MB Skid CLient Logo" width="20%"/>
 </p>
 
-<h1 align="center">Meteor Client</h1>
+<h1 align="center">MB Skid Client</h1>
 
-<p align="center">A Minecraft Fabric Utility Mod for the latest Minecraft release.</p>
+<p align="center">A skidded client made by masterbaters.</p>
 
 <div align="center">
     <a href="https://discord.gg/bBGQZvd"><img src="https://img.shields.io/discord/689197705683140636?logo=discord" alt="Discord"/></a>
