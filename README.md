@@ -3,9 +3,9 @@
 <img src="https://user-images.githubusercontent.com/97409383/153126651-3a16cf70-6939-4f9d-a187-85861d3141fb.png" width"5" height"5"
 </p>
 
-<h1 align="center">MB Skid Client</h1>
+<h1 align="center">MB Skid Client </h1>
 
-<p align="center">A skidded client made by masterbaters.</p>
+<p align="center">Skidded Version Of Meteor By Masterbaters.</p>
 
 <div align="center">
     <a href="https://discord.gg/bBGQZvd"><img src="https://img.shields.io/discord/689197705683140636?logo=discord" alt="Discord"/></a>
