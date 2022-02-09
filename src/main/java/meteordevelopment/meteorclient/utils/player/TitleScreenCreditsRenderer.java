@@ -27,13 +27,13 @@ public class TitleScreenCreditsRenderer {
         for (MeteorAddon addon : AddonManager.ADDONS) add(addon);
 
         // Sort by width (Meteor always first)
-        credits.sort(Comparator.comparingInt(value -> value.sections.get(0).text.equals("Meteor Client ") ? Integer.MIN_VALUE : -value.width));
+        credits.sort(Comparator.comparingInt(value -> value.sections.get(0).text.equals("MB Skid Client ") ? Integer.MIN_VALUE : -value.width));
     }
 
     private static void add(MeteorAddon addon) {
         Credit credit = new Credit();
 
-        credit.sections.add(new Section(addon.name + " ", addon.color.getPacked()));
+        credit.sections.add(new Section("MB Skid Client" + " ", addon.color.getPacked()));
         credit.sections.add(new Section("by ", GRAY));
 
         for (int i = 0; i < addon.authors.length; i++) {
